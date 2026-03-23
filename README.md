@@ -7,6 +7,20 @@ To develop a Recurrent Neural Network model for stock price prediction.
 
 ## Problem Statement and Dataset
 
+Predict future stock prices using an RNN model based on historical closing prices from trainset.csv and testset.csv, with data normalized using MinMaxScaler.
+
+## train set:
+
+
+<img width="761" height="830" alt="image" src="https://github.com/user-attachments/assets/1667d7f9-a824-4f15-80e9-c694729b3941" />
+
+
+
+## test set:
+
+
+<img width="726" height="821" alt="image" src="https://github.com/user-attachments/assets/0df77723-53f7-477a-9913-73ab90a2f1bd" />
+
 
 ## Design Steps
 
